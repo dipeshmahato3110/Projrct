@@ -28,11 +28,11 @@ const Header: React.FC = () => {
         <div className={`hidden md:flex justify-end gap-6 text-sm ${scrolled ? 'text-gray-700' : 'text-white'} mb-2`}>
           <a href="tel:+12345678900" className="flex items-center gap-1 hover:text-gold-600 transition-colors duration-200">
             <Phone size={14} />
-            <span>(123) 456-7890</span>
+            <span>(91) 7029014262</span>
           </a>
           <div className="flex items-center gap-1">
             <MapPin size={14} />
-            <span>123 Elegant Street, Beverly Hills</span>
+            <span>123 Street, Kolkata, India</span>
           </div>
           <div className="flex items-center gap-1">
             <Clock size={14} />
@@ -42,7 +42,7 @@ const Header: React.FC = () => {
 
         <div className="flex items-center justify-between">
           <a href="/" className="text-2xl font-serif font-bold">
-            <span className={`transition-colors duration-300 ${scrolled ? 'text-gold-600' : 'text-white'}`}>LUXE</span>
+            <span className={`transition-colors duration-300 ${scrolled ? 'text-gold-600' : 'text-white'}`}>DM</span>
             <span className={`transition-colors duration-300 ${scrolled ? 'text-gray-800' : 'text-white'}`}>salon</span>
           </a>
           

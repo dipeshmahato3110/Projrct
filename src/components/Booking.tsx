@@ -65,14 +65,14 @@ const Booking: React.FC = () => {
               
               <div className="mb-8">
                 <h4 className="text-gold-200 text-sm font-medium uppercase mb-2">Contact</h4>
-                <p className="mb-1">(123) 456-7890</p>
-                <p>info@luxesalon.com</p>
+                <p className="mb-1">(91) 7029014262</p>
+                <p>info@DMsalon.com</p>
               </div>
               
               <div>
                 <h4 className="text-gold-200 text-sm font-medium uppercase mb-2">Location</h4>
-                <p>123 Elegant Street</p>
-                <p>Beverly Hills, CA 90210</p>
+                <p>123 Street</p>
+                <p>Kolkata, India</p>
               </div>
             </div>
             
@@ -84,7 +84,7 @@ const Booking: React.FC = () => {
                     <div className="text-green-500 text-5xl mb-4">✓</div>
                     <h3 className="text-2xl font-semibold mb-2">Booking Request Received</h3>
                     <p className="text-gray-600 mb-4">
-                      Thank you for booking with LUXE salon. We'll confirm your appointment shortly via email or phone.
+                      Thank you for booking with DM salon. We'll confirm your appointment shortly via email or phone.
                     </p>
                   </div>
                 </div>

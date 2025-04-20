@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <h3 className="text-2xl font-serif font-bold mb-4">
-              <span className="text-gold-400">LUXE</span>salon
+              <span className="text-gold-400">DM</span>salon
             </h3>
             <p className="text-gray-400 mb-6">
               Where beauty meets luxury. Our premium salon services are designed to make you look and feel your absolute best.
@@ -91,10 +91,10 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="text-lg font-medium mb-4">Contact Info</h4>
             <address className="not-italic text-gray-400 space-y-2 mb-4">
-              <p>123 Elegant Street</p>
-              <p>Beverly Hills, CA 90210</p>
-              <p>Phone: (123) 456-7890</p>
-              <p>Email: info@luxesalon.com</p>
+              <p>123 Street</p>
+              <p>Kolkata, W.B., India</p>
+              <p>Phone: (+91) 7029014262</p>
+              <p>Email: info@DMsalon.com</p>
             </address>
             <div>
               <h5 className="text-sm font-medium mb-2">Hours</h5>
@@ -107,7 +107,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            &copy; {currentYear} LUXE Salon. All rights reserved.
+            &copy; {currentYear} DM Salon. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-gray-500">
             <a href="#" className="hover:text-gold-400 transition-colors">Privacy Policy</a>
